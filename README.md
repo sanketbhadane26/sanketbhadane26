@@ -27,8 +27,7 @@ I enjoy solving problems, exploring data, and building practical projects using 
 |---|---|---|
 | Drug Classification – EDA | Exploratory data analysis of drug classification data | Python, Pandas, NumPy |
 | Olist E-Commerce Analysis | SQL-based e-commerce business analysis | PostgreSQL, SQL |
-| Stock Price Forecasting | Time-series forecasting using SARIMAX | Python |
-| Breast Cancer Prediction | Classification using Logistic Regression and Decision Trees | Python, Scikit-learn |
+
 
 ### 📚 Learning & Practice
 
