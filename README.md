@@ -38,5 +38,5 @@ I enjoy solving problems, exploring data, and building practical projects using 
 
 ### 🤝 Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/sanket-bhadane-145349346/)
+- [Linkedin](https://www.linkedin.com/in/sanketbhadane/)
 - Email: sanketbhadane12@gmail.com
